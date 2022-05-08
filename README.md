@@ -27,4 +27,4 @@ This may take a while to load.
 
 ## 4. Starting Pycharm
 
-From the Anaconda navigator you can launch `Pycharm Community` or Jupyter-notebook and navigate to your project folder. Make sure the correct environment is activated first.
+From the Anaconda navigator you can launch `Pycharm Community` or Jupyter-notebook and navigate to your project folder. Make sure the correct environment is activated first. Then select the script to carry out the code.
